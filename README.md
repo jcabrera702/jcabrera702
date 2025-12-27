@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 
 ### 📈 My GitHub Activity
 ![Justin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark)
+
+[![Justin's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcabrera702&theme=vision-friendly-dark)](https://git.io/streak-stats)
