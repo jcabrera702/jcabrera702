@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 [![Justin's GitHub Streak](https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jcabrera702&theme=vision-friendly-dark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcabrera702&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
