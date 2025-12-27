@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark" width="48%" />
- <img src="https://streak-stats.demolab.com?user=jcabrera702&theme=vision-friendly-dark" width="48%" />
+ <img src="https://streak-stats.demolab.com?user=jcabrera702&theme=vision-friendly-dark&v=1" width="48%" />
 </p>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
