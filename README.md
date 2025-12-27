@@ -29,10 +29,15 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
 
-### 📈 My GitHub Activity
-![Justin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark)
+<h3 align="center">📊 My GitHub Journey</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark" width="48%" />
+</p>
 
-[![Justin's GitHub Streak](https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=jcabrera702&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=jcabrera702&theme=vision-friendly-dark" />
+  </a>
+</p>
