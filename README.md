@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcabrera702&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Justin's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jcabrera702&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠️ My Tech Stack
 
 **Web Development (The Odin Project)**
