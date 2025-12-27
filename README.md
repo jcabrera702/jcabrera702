@@ -48,3 +48,18 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/justin-cabrera-3b151539b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/jcryptonoob" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
+
+### 🚀 Current Learning Goals
+
+**[The Odin Project](https://github.com/TheOdinProject) (JavaScript Path)**
+![Progress](https://geps.dev/progress/65) 
+- [x] Foundations Course
+- [ ] Intermediate HTML and CSS
+- [ ] JavaScript Course
+- [ ] Advanced HTML and CSS
+
+**[The Rust Programming Language](https://github.com/jcabrera702/rust-book)**
+![Progress](https://geps.dev/progress/30)
+- [x] Common Programming Concepts (Ch 3)
+- [ ] Understanding Ownership (Ch 4)
+- [ ] Managing Growing Projects (Ch 7)
