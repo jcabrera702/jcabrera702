@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+in+Training;Rust+Enthusiast;The+Odin+Project+Learner&center=true&width=500&height=50&theme=vision-friendly-dark)
 
 <!--
 **jcabrera702/jcabrera702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +33,6 @@ Here are some ideas to get you started:
 ![Justin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark)
 
 [![Justin's GitHub Streak](https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=jcabrera702&theme=vision-friendly-dark)](https://github.com/ryo-ma/github-profile-trophy)
