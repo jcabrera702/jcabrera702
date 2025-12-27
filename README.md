@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jcabrera702&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🛠️ My Tech Stack
 
@@ -26,3 +27,6 @@ Here are some ideas to get you started:
 **Systems Programming (Current Focus)**
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
+
+### 📈 My GitHub Activity
+![Justin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark)
