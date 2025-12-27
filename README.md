@@ -29,7 +29,11 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-%239945FF.svg?style=for-the-badge&logo=Solana&logoColor=white)
 
-
+<h3 align="center">📊 My GitHub Journey</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark" width="48%" />
+</p>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -42,12 +46,6 @@ Here are some ideas to get you started:
 <a href="mailto:justincrypto702@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="justincrypto702@gmail.com" /></a>
 <a href="https://www.linkedin.com/in/justin-cabrera-3b151539b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/jcryptonoob" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
-
-<h3 align="center">📊 My GitHub Journey</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=jcabrera702&theme=vision-friendly-dark" width="48%" />
 </p>
 
 ### 🚀 Current Learning Goals
