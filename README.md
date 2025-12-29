@@ -35,12 +35,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jcabrera702&theme=vision-friendly-dark" width="48%" />
   <img src="https://github-readme-streak-stats1-one.vercel.app?user=jcabrera702&theme=vision-friendly-dark" width="48%" />
 </p>
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=jcabrera702&theme=vision-friendly-dark" />
   </a>
-</p>
+</p> -->
 ### 🤝 Connect with Me
 
 <p align="left">
