@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 **[The Rust Programming Language](https://github.com/jcabrera702/rust-book)**
 ![Progress](https://geps.dev/progress/30)
 - [x] Common Programming Concepts (Ch 3)
-- [ ] Understanding Ownership (Ch 4)
+- [x] Understanding Ownership (Ch 4)
 - [ ] Managing Growing Projects (Ch 7)
